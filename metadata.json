@@ -1,0 +1,6 @@
+{
+  "name": "Smart College Assistant",
+  "description": "A professional and visually attractive 8-slide Hackathon presentation for Smart College Assistant, an AI-powered digital solution for smart campus management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
